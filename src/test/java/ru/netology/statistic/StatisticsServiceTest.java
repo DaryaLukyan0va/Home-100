@@ -17,7 +17,7 @@ class StatisticsServiceTest {
 
     assertEquals(expected, actual);
   }
-<<<<<<< HEAD
+
   @Test
   void Max() {
     StatisticsService service = new StatisticsService();
@@ -29,6 +29,5 @@ class StatisticsServiceTest {
 
     assertEquals(expected, actual);
   }
-=======
->>>>>>> 9aeccedba2e95626708602cbb199aeb88685d854
+
 }
